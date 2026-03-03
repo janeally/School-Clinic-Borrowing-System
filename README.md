@@ -19,4 +19,4 @@ This is a functional software subsystem designed to validate inventory transacti
 ## Testing Strategy 
 - **Black-box Testing:** Validating inputs 
 - **White-box Testing:** Verifying internal logic paths for stock deductions.
-- **TDD Cycle:** Followed the Red-Green-Refactor workflow.
+- **TDD Cycle:** Followed the Red-Green-Refactor workflow."# Inventory-Subsystem-SE102" 
