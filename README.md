@@ -1,7 +1,7 @@
 # Retail Inventory Subsystem
 **Course:** SE102: Software Engineering 2
 **Assessment:** Practical Activity Assessment 1 — Demonstrating a Working Subsystem
-**Student:** Jane Rio Dela Torre | BSIT 2-A
+**Student:** Jane Rio Dela Torre,Justine Duenas
 **Repository:** https://github.com/janeally/Inventory-Subsystem-SE102.git
 
 ---
